@@ -12,6 +12,11 @@ Rahul’s Blog – Sharing thoughts and projects
 ![Robot](./images/robot.jpg) 
 
 ---
+## 🎥 Demo Video
+
+[Download Demo Video](./videos/demo.mp4)
+
+
 
 ## 🛠️ Hardware Components
 - ATmega328P Microcontroller  
