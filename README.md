@@ -9,7 +9,7 @@ Rahul’s Blog – Sharing thoughts and projects
 ---
 
 ## 📸 Project Preview
-![Robot](./images/robot.jpg) <!-- Replace with your photo -->
+![Robot](./images/robot.jpg) 
 
 ---
 
