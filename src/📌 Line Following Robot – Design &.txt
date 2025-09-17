@@ -1,0 +1,41 @@
+📌 Line Following Robot – Design & Implementation 🤖
+As part of my academic and practical journey in robotics and embedded systems, I designed and built a line following robot capable of autonomous path tracking with reliable performance.
+
+🔧 Hardware Highlights ⚡
+
+🔍 IR Sensor Array (3 sensors) – accurate line detection and path correction
+
+⚙️ N20 DC Gear Motors – smooth and efficient motion control
+
+🔌 L298N Motor Driver – stable bidirectional motor operation
+
+🖥️ ATmega328P Microcontroller – core processing and control unit
+
+🔋 Li-ion Battery Pack – lightweight and efficient power supply
+
+📐 Circuit Design, Prototyping & Simulation 🛠️
+1️⃣ Verified the initial design on a breadboard for sensor alignment and motor driver integration
+2️⃣ Designed and soldered the circuit onto a custom PCB for compactness and durability
+3️⃣ Developed and tested a Proteus simulation for circuit validation and debugging
+4️⃣ Conducted sensor calibration and motor driver testing to ensure accurate signal response
+5️⃣ Optimized wiring layout to minimize noise and enhance reliability
+
+⚙️ System Integration 🔗
+
+📡 Integrated IR sensors with the ATmega328P for line tracking
+
+🧠 Implemented logic-based correction for real-time path following
+
+📊 Applied PWM motor control for smooth speed adjustment on curves
+
+🎯 Fine-tuned sensor placement for optimal accuracy and responsiveness
+
+📊 Project Outcomes 📈
+This project brought together sensor calibration, embedded programming, motor control, PCB design, and simulation into a cohesive robotics application. The work highlights the integration of both hardware and software to achieve autonomous functionality.
+
+🔍 Next Step 🚀: Extending the system with PID control for precision tracking and incorporating ultrasonic sensors for obstacle detection and multipurpose navigation.
+
+📂 GitHub Repository 💻: [Insert your repo link]
+
+✅ Suggested Hashtags:
+#LineFollowingRobot 🤖 #ATmega328P #Robotics #EmbeddedSystems 🖥️ #PCBDesign #Automation ⚡ #ProteusSimulation #Sensors #ElectronicsEngineering 🔌 #MotorControl ⚙️ #PathTracking
